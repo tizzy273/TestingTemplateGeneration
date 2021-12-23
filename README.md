@@ -3,7 +3,7 @@
 ## My bachelor degree thesis project, a writing Junit Test tool
 ### Studying in 16 Maven Projects the correlations between methods return type and their relative tests, have been created rules for test creation.
 
-**TestTemplateGenerator** taken as input a java classes directory, generates test suggestion for every declared method. It will be up to the developer to act as the oracle.
+**TestTemplateGenerator** the final tool. Taken as input a java classes directory, generates test suggestion for every declared method. It will be up to the developer to act as the oracle.
 
 **TestRecognizer** tool to recognize Junit versions used in java test directory taken as input.
 
